@@ -1,0 +1,310 @@
+Innfinergy
+
+v1.05 -
+- Added date to kanban page cards
+- colors date by week and text by overdue on gridview
+v1.06 -
+- Added Auto CSS Inject into all Innergy grids for colored mouse-over and alternating row highlight.
+- Added day of the week to kanban view
+v1.07 -
+- Changed height of gridview page on click
+v1.08 -
+- Added options page
+- Added experimental auto-run feature
+v1.09 -
+- Improved autorun for kanban view
+v1.10 -
+- Fixed Manual Grid View colors
+v1.11 -
+- Innfinergy works on dev build of Innergy
+v1.12 -
+- Fixed grid view automatic
+- Refreshed settings to have automatic on
+v1.13 -
+- Fixed Features
+- Removed depreciated hover over color
+v1.14 -
+- Fixed date crid colors
+- Added Feature, Kanban links open in new tab
+v1.15 -
+- Added Takeoff drop-down width change feature
+v1.16 -
+- Fixed Kanban automatic feature
+v1.17 -
+- Added Takeoff Budget zero dollar feature.
+v1.18 -
+- Fixed bug with Takeoff Budget zero dollar feature.
+V1.19 -
+- Added Red text to budget screen headers for effected columns.
+v1.20 -
+- Numerous bug fixes and optimizations.
+v1.21 -
+- Added EasyMode Feature (off by default).
+- EasyMode adds labels to icons in takeoff menu.
+- EasyMode adds line at top of scroll-able menu column in Takeoff. 
+v1.22 -
+- Added Takeoff Auto Dropdown feature.
+v1.23 -
+- Added Undocked Takeoff Title Feature.
+V1.24 -
+- Added Expand/Shrink All buttons to Budget in Opportunities and Takeoff.
+V1.25 -
+- Added Labor hour/minute to decimal conversion to budget labor rows as a manual feature.
+V1.26 - 
+- Added Kanban Popup Icon remover feature.
+v1.27 -
+- Added width increase in material swap popup to Takeoff drop-down menu feature.
+V1.28 -
+- Fixed bug in manual features.
+v1.29 -
+- Added Cost Summary Calculator feature to takeoff.
+v1.30 -
+- Bug fixes and feature tweaks.
+v1.31 -
+- Added Shrink/Expand feature to all default grids.
+- Bug fix for Labor hour/minute feature.
+v1.32 -
+- Added Sales Mode Feature.
+- Options Menu bug fixes.
+v1.33 -
+- Added Grid Selection Data Feature.
+v1.34 -
+- New options menu
+- Grid Selection Data Feature now has automatic activation.
+- Grid Selection Data Feature now only works while [Ctrl] key is held.
+- Grid Selection Data Feature now works with multiple selections.
+v1.35 -
+- Added Kanban List Shortcut Feature
+v1.36 -
+- Fixed various bugs in features.
+- Added pictures to options menu.
+V1.37 -
+- Spelling Fixes
+v1.38 -
+- Added Kiosk table remover feature.
+v1.39 -
+- Bugfixes.
+v1.40 -
+- Added Kanban Auto Refresh Feature.
+- Fixed bug in settings.
+v1.41 -
+- Added Hotkey choice to Grid Selection Data Feature for Mac comparability.
+- Added Library Warning Feature to Accessibility
+v1.42 -
+- Added delay to Kanban Auto Refresh when user is active.
+- Bug fixes to config menu.
+v1.43 -
+- Added Search Save feature.
+v1.44 -
+- Added Invoice Percent Calculator feature.
+v1.45 -
+- Added Kiosk Bid Navigation Buttons feature.
+- Altered Grid Selection Data to accept cells ending with 'h' or 'm' as numbers to calculate.
+v1.46 -
+- Bug Fixes
+v1.47 -
+- Fixed Bug with Summary Cost Calculator where it could not handle numbers over 1 million.
+- Fixed Bug with Search Saver where moving a card would not trigger search reload.
+v1.48 -
+- Added Summary Alternates Saver feature to the Autofill category.
+v1.49 -
+- Added Kiosk Button Feature.
+- BugFixes
+v1.50 -
+- Added Opportunities Middle Click Category feature to Accessibility.
+- Added ability for the Grid Selection Data feature to handle time values in both (#h #m #s) and (#:##) format (it converts them to a percent of a hour).
+v1.51-2 -
+- Spelling Fixes
+v1.53 -
+- Added Takeoff Refresh Warning feature to the 'Tables' category.
+- Added Sort Saver to the 'Kanban' category.
+v1.54 -
+- Added a global Enable/Disable toggle button to the right click menu of the Innfinergy icon.
+- Added Email Job Link Button feature to Kanban Features.
+v1.55 -
+- Bugfix for Email Job Link Button feature.
+v1.56 -
+- Fixed several Kanban features broken by updates.
+- Removed Kanban Dates feature due to being redundant.
+v1.57 -
+- Bugfix to Kiosk Button Feature.
+v1.58 -
+- Fixed many features broken by update.
+v1.59 -
+- Added Bottom Line Calculator Feature.
+- Added Percent To Step Feature.
+- Added Sales Forecaster Feature.
+- Features may not work in beta next update.
+v1.60 -
+- Restored functionality to all features affected by update.
+- Returned Kanban Dates Feature.
+- Updated Sales Forecaster feature.
+v1.61 -
+- Fixed a bug with the create opportunity auto-fill.
+v1.62 -
+- Bugfixes.
+v1.63 -
+- Fixed the displayed month on the Bottom Line feature.
+- The Bottom Line and Forecast Features no longer require the List Link feature to be active.
+- Fixed bug with the Kanban Sort Saver.
+- Kanban Icon Remover feature no longer on by default for new installations.
+v1.64 -
+- Fixed bug with the Kanban Icon Remover options.
+- Removed the Percent to Step Feature due to redundancy.
+v1.65 -
+- Fixed Sales Forcast and Bottom Line feature.
+v1.66 -
+- Fixed Kiosk Bid Navigation Buttons Feature.
+- Added Win % and Estimator column to Sales Forecaster Feature.
+- Added an Export to CSV button to the Sales Forecaster Feature.
+v1.67 -
+- Added forcast step name to Forcast feature.
+v1.68 -
+- Added Alt + Base Bid, Margin $ / Hr Feature.
+v1.69 -
+- Added Work Order Past Due Feature.
+v1.70 -
+- Removed Alt + Base Bid, Margin $ / Hr Feature.
+- Fixed bug with Kiosk button Feature.
+v1.71 -
+- Added Opportunities Middle Click Category Feature.
+v1.72 -
+- Fixed bug with Opportunities Middle Click Category Feature
+- Changed Opportunities Middle Click Category Feature to Middle Click Category Feature.
+v1.73 -
+- Bugfixes
+v1.74 -
+- Fixed date and total offsets in forecast and bottleneck features.
+v1.75 -
+- Fixed date bugs in the forecast feature.
+v1.76 -
+- Updated code to handle new Innergy data structure.
+v1.77 -
+- Fixed labels for icons in takeoff for Easy Mode feature.
+v1.78 -
+- Added Purchase Order Mailer feature to the autofill category.
+v1.79 -
+- Fixed Forecast and Bottom Line Features.
+v1.80 -
+- Added Kanban Facility Save Feature.
+v1.81 -
+- Added Kanban List View Auto Refresh Feature.
+- Bugfix for Takeoff Easy Mode Feature.
+- Added a year offset ability to Sales Forecaster Feature.
+- Bugfix for Sales Forecaster Feature, month was incorrect on dates that occurred on the first of the month.
+v1.82 -
+- Added Product Cost - Material/Labor Breakout Feature to the Tables category.
+v1.83 -
+-Added Select/Deselect All Columns Buttons Feature to Tables Category.
+v1.84 -
+- Bug fix for Chromebit Comparability.
+v1.85 -
+- Upgraded the Sales Forecaster grid.
+- Added Kisok Bottleneck Button feature.
+- Made links added to the Innergy menu able to be middle-clicked.
+v1.86 - 
+- Bugfix for a grid style issue.
+v1.87 -
+- Added overhead $ (Extended Product Cost - (Labor + Material)) to Product Cost - Material/Labor Breakout Feature.
+- Bugfix to all XHR calls to run in background script.
+v1.88 -
+- Added Select/Deselect All Work Order Expenses Feature to the Tables category.
+v1.89 -
+- Bugfixes.
+v1.90 -
+- Removed Select/Deselect All Work Order Expenses Feature.
+v1.91 -
+- Fixes to Forecast feature math, the beyond column now only includes distributed costs in years beyond the current year.
+- Added Bottleneck Hide Rows feature to tables category as off by default.
+v1.92 -
+- Added Option Text To Clipboard Feature to accessibility category.
+- The Bottleneck Hid Rows feature subtracts hidden rows from total rows.
+V1.93 -
+- Bugfixes.
+V1.94 -
+- Bugfixes.
+V1.95 -
+- Bugfixes.
+V1.96 -
+- Changed formatting of total columns to be more intuitive.
+V1.97 -
+- Fixed Bottleneck Hid Rows feature to work with different filtering options.
+- Fixed Option Text To Clipboard bug when clicking after opening drop down menu.
+- Fixed Listview links on main menu.
+v1.98 -
+- Fixed Bottleneck Hid Rows feature to work in more instances.
+.v1.99 -
+- Updated Kiosk Bids Remover feature.
+- Updated Kiosk Navigation Buttons feature and added new buttons to link from kiosk to web in purchase orders.
+v2.00-
+- Fixed Forecast feature.
+- Updated Bottleneck hide rows feature to allow clicking on totals.
+- Bugfixes
+v2.01-
+- Fixed Kanban Dates feature to ignore cards with no date.
+v2.02-
+- Removed Chrome v80 requirement from Innfinergy.
+v2.03-
+- Fixed various features Innergy update.
+v2.04-
+- Bugfixes
+v2.05-
+- Moved to single Infinnergy version.
+- Added Bottleneck PM Hider Feature.
+- Bugfixes.
+v2.06-
+- Bugfix to Kiosk Buttons feature.
+v2.06-
+- Modified PM Hider Feature with UI improvements.
+- Bugfixes.
+v2.07-
+- Added Proposal Mailer Feature.
+v2.08-
+- Added Material Legend Feature.
+- Added BoM Rounder Feature.
+v2.09-
+- UI Improvements for Material Legend Feature.
+v2.10-
+- More UI Improvements to Material Legend .
+v2.11-
+- BugFixes.
+v2.12-
+- BugFixes.
+v2.13-
+- UI Improvements to Material Legend .
+- Set Material Legend to on by default.
+v2.14-
+- Material Legend now updates user edits.
+- Fixed items added to Innergy main menu.
+- Bugfixes.
+v2.15-
+- New Feature "Material Request Link to Work Order" added to Kiosk.
+- Feature Combined and Updated "Innergy Refresh" added to Kanban.
+- Material Legend now has an Aka Field.
+v2.16-
+- Bugfixes to Innergy Refresh Feature.
+v2.17-
+- Material legend behavior fix.
+v2.18-
+- Bugfixes.
+v2.19-
+- Added Main Menu Pop-In Shortcut feature to Accessibility.
+v2.20-
+- Hotfix to allow Innfinergy to work on dev versions of Innergy.
+- Changed color of disabled buttons in Material Legend.
+v2.21-
+- Bugfixes to Material Legend and Email Job Link Button features.
+- Re-organized various buttons placed in item headers.
+v2.22-
+- Bugfix to Email Job Link Button Feature.
+v2.23-
+- Fixed Sales Forecast BoB Total
+- Added Budget Summary Scrollbar feature to Accessibility.
+v2.24-
+- Updates to Budget Summary Scrollbar feature.
+v2.25-
+- Bugfixes.
+v2.26-
+- Option Text To Clipboard Feature set to off by default.
+v2.27-
+- Bugfixes
