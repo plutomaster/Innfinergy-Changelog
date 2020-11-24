@@ -308,3 +308,7 @@ v2.26-
 - Option Text To Clipboard Feature set to off by default.
 v2.27-
 - Bugfixes
+v2.28-
+- Bugfixes
+- Removel of feature Easy Mode
+
