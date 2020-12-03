@@ -311,4 +311,9 @@ v2.27-
 v2.28-
 - Bugfixes
 - Removel of feature Easy Mode
-
+v2.29-
+- Hotfix due to update
+V2.30-
+- Bugfixes
+v2.31-
+- Summary Cost Calculator Feature Fixed and updated.
