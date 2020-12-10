@@ -317,3 +317,8 @@ V2.30-
 - Bugfixes
 v2.31-
 - Summary Cost Calculator Feature Fixed and updated.
+v2.32-
+- Hotfix.
+v2.33-
+- Fixed Product Cost - Material/Labor Breakout Feature.
+
