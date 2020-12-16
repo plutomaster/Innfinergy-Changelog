@@ -321,4 +321,6 @@ v2.32-
 - Hotfix.
 v2.33-
 - Fixed Product Cost - Material/Labor Breakout Feature.
-
+v2.34-
+- Removed several redudant features.
+- Added Kiosk MO to Web Materials feature.
