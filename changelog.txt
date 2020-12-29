@@ -326,3 +326,9 @@ v2.34-
 - Added Kiosk MO to Web Materials feature.
 v2.35-
 - Added Take/Leave BoM feature.
+v2.36-
+- Bugfixes.
+v2.37-
+- Bugfixes.
+v2.38-
+- Added Kiosk Wo Job Name feature.
