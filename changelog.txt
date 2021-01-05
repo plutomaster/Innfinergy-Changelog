@@ -332,3 +332,7 @@ v2.37-
 - Bugfixes.
 v2.38-
 - Added Kiosk Wo Job Name feature.
+v2.39-
+- Bugfix.
+- Fix to feature setting states not being saved under specific conditions.
+- Fix to kiosk features to work on old url format.
