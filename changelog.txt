@@ -336,3 +336,6 @@ v2.39-
 - Bugfix.
 - Fix to feature setting states not being saved under specific conditions.
 - Fix to kiosk features to work on old url format.
+v2.40-
+- Added Sort By Summary Feature.
+- Added Add Group Summaries Feature.
