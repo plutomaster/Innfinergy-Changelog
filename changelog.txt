@@ -339,3 +339,5 @@ v2.39-
 v2.40-
 - Added Sort By Summary Feature.
 - Added Add Group Summaries Feature.
+v2.41-
+- Bugfixes
