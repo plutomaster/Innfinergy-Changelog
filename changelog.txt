@@ -341,3 +341,5 @@ v2.40-
 - Added Add Group Summaries Feature.
 v2.41-
 - Bugfixes
+V2.42-
+- Bugfix for Group Summaries Feature.
