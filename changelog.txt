@@ -343,3 +343,6 @@ v2.41-
 - Bugfixes
 V2.42-
 - Bugfix for Group Summaries Feature.
+V2.43-
+- Added Reset Scroll Kiosk Feature.
+- Added Add Labor Item Kiosk Feature.
