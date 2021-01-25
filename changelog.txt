@@ -346,3 +346,8 @@ V2.42-
 V2.43-
 - Added Reset Scroll Kiosk Feature.
 - Added Add Labor Item Kiosk Feature.
+V2.44-
+- Added Remaining Hours Popup table Feature.
+- Added Actual Hours highlighter table Feature.
+- Bugfix for Sales Forecast.
+- Changed Reset Scroll Feature to Fix Scroll Feature.
