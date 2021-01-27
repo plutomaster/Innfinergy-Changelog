@@ -351,3 +351,6 @@ V2.44-
 - Added Actual Hours highlighter table Feature.
 - Bugfix for Sales Forecast.
 - Changed Reset Scroll Feature to Fix Scroll Feature.
+V2.45-
+- Bugfix.
+
