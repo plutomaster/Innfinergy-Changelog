@@ -353,4 +353,5 @@ V2.44-
 - Changed Reset Scroll Feature to Fix Scroll Feature.
 V2.45-
 - Bugfix.
-
+V2.46-
+- Bugfixes.
