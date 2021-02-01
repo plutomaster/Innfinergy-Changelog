@@ -355,3 +355,8 @@ V2.45-
 - Bugfix.
 V2.46-
 - Bugfixes.
+V2.47-
+- Bugfixes.
+V2.48-
+- Added Assign Custom Tags Feature.
+
