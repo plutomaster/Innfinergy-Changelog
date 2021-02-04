@@ -358,5 +358,9 @@ V2.46-
 V2.47-
 - Bugfixes.
 V2.48-
-- Added Assign Custom Tags Feature.
+- Added Assign Custom Tags -premium- Feature.
+V2.49-
+- Fixed Invoice Percent Calculator Feature.
+V2.50-
+- Added add Open Bulk Work Orders -premium- Feature.
 
