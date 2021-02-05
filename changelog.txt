@@ -361,6 +361,13 @@ V2.48-
 - Added Assign Custom Tags -premium- Feature.
 V2.49-
 - Fixed Invoice Percent Calculator Feature.
+- Added Assign Custom Tags -premium- Feature.
 V2.50-
-- Added add Open Bulk Work Orders -premium- Feature.
-
+- Added Open Bulk Work Orders -premium- Feature.
+V2.51-
+- Added Kiosk Upload Receiving Pictures -premium- Feature.
+- Added Kiosk Icon Middle Click -premium- Feature.
+- Added Kiosk Material On Hand Display -premium- Feature.
+- Added Kiosk Autofill Material Fulfill -premium- Feature.
+- Updated Kiosk Banner Image -premium- Feature.
+- Updated Material Request Link to Work Order Feature to allow Middle clicks.
