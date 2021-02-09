@@ -371,3 +371,6 @@ V2.51-
 - Added Kiosk Autofill Material Fulfill -premium- Feature.
 - Updated Kiosk Banner Image -premium- Feature.
 - Updated Material Request Link to Work Order Feature to allow Middle clicks.
+V2.51-
+- Updated Assing Custom Tags autocomplete features.
+- Bugfix for Kiosk Autofill Material Fulfill.
