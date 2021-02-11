@@ -374,3 +374,10 @@ V2.51-
 V2.51-
 - Updated Assing Custom Tags autocomplete features.
 - Bugfix for Kiosk Autofill Material Fulfill.
+V2.52-
+- Bugfixes.
+V2.53-
+- Added Timeclock Data Display -premium- Feature.
+V2.54-
+- Added Auto Refresh feature to Company Calender.
+- Fixed Invoice Percent Calculator input issue.
