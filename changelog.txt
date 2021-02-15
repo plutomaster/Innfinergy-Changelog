@@ -381,3 +381,10 @@ V2.53-
 V2.54-
 - Added Auto Refresh feature to Company Calender.
 - Fixed Invoice Percent Calculator input issue.
+V2.58-
+- Updated Timeclock Data Display -premium- Feature to sort grid to clicked transfer.
+- Added Shipping Calendar -premium- Feature.
+- Added Kiosk MO to Web Notes -premium- Feature.
+- Added Smooth Checkbox -premium- Feature.
+- Added Verify Matials -premium- Feature.
+- Added Kiosk Unalocated Time Warning -premium- Feature.
