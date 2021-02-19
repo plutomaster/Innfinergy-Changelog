@@ -388,3 +388,5 @@ V2.58-
 - Added Smooth Checkbox -premium- Feature.
 - Added Verify Matials -premium- Feature.
 - Added Kiosk Unalocated Time Warning -premium- Feature.
+V2.59-
+- Updated Verify Matials -premium- to link materails to pre-sorted purchace order line item grid.
