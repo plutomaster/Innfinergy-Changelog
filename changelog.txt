@@ -390,3 +390,6 @@ V2.55-
 - Added Kiosk Unalocated Time Warning -premium- Feature.
 V2.56-
 - Updated Verify Matials -premium- to link materails to pre-sorted purchace order line item grid.
+V2.57-
+- Bugfix for Material Legend export.
+- Update to Smooth Checkbox -premium-.
