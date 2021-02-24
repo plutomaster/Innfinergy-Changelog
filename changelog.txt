@@ -393,3 +393,8 @@ V2.56-
 V2.57-
 - Bugfix for Material Legend export.
 - Update to Smooth Checkbox -premium-.
+V2.58-
+- Fixed Library Warning.
+- Update to Kiosk MO Notes Manager -premium- with a in kiosk notes miniplulating poupup window.
+- Bugfixes for Innergy update.
+
