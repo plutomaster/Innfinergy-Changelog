@@ -397,4 +397,7 @@ V2.58-
 - Fixed Library Warning.
 - Update to Kiosk MO Notes Manager -premium- with a in kiosk notes miniplulating poupup window.
 - Bugfixes for Innergy update.
+V2.59-
+- Update to Verify Matials -premium- feature to add valid materials based on delivered materials.
+- Update to kanban refresh to extend re-try interval from 30 seconds to 3 minutes. Will still force retry after 3 minutes of inactivity if chosen refresh timespan has passed.
 
