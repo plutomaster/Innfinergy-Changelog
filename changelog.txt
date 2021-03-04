@@ -400,4 +400,8 @@ V2.58-
 V2.59-
 - Update to Verify Matials -premium- feature to add valid materials based on delivered materials.
 - Update to kanban refresh to extend re-try interval from 30 seconds to 3 minutes. Will still force retry after 3 minutes of inactivity if chosen refresh timespan has passed.
-
+V2.60-
+- Color indicatiors for Verify Materials feature.
+V2.61-
+- Added Bom Deliveries -premium- Feature.
+- Holding shift to close blue floating windows will close all windows open on screen.
