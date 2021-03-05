@@ -405,3 +405,8 @@ V2.60-
 V2.61-
 - Added Bom Deliveries -premium- Feature.
 - Holding shift to close blue floating windows will close all windows open on screen.
+V2.62-
+- Math fix to invoice percent calulator feature.
+- Update Verify Materials Colors.
+- Change logic for displaying Next Receipt in Verify Materials Feature.
+- Alpha release of Materials to Buy Edit -premium- Feature.
