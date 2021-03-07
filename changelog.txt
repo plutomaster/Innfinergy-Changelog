@@ -410,3 +410,5 @@ V2.62-
 - Update Verify Materials Colors.
 - Change logic for displaying Next Receipt in Verify Materials Feature.
 - Alpha release of Materials to Buy Edit -premium- Feature.
+V2.63-
+- Finished functionality of Materials to Buy Edit -premium- Feature.
