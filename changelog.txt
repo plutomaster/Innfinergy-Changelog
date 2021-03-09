@@ -412,3 +412,7 @@ V2.62-
 - Alpha release of Materials to Buy Edit -premium- Feature.
 V2.63-
 - Finished functionality of Materials to Buy Edit -premium- Feature.
+V2.64-
+- Assign Custom Tags Feature now able to remove tags, only shows tags attached to selected WO's.
+- Invoice Percent Calculator disabled functionality on negative values. (not supported use)
+- Added Project Bom Edit Needed -premium- Feature.
