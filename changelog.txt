@@ -417,3 +417,5 @@ V2.64-
 - Invoice Percent Calculator disabled functionality on negative values. (not supported use)
 - Added Project Bom Edit Needed -premium- Feature.
 - Added 'instert row' functionality to Material Legend Feature.
+V2.65-
+- Added Add Next Receipt -premium- Kiosk Feature.
