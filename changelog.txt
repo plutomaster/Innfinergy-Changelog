@@ -421,3 +421,5 @@ V2.65-
 - Added Add Next Receipt -premium- Kiosk Feature.
 V2.66-
 - Added Work Order Change Name -premium- Feature.
+V2.66-
+- Added Takeoff Quantity Edit -premium- Feature.
