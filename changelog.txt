@@ -419,3 +419,5 @@ V2.64-
 - Added 'instert row' functionality to Material Legend Feature.
 V2.65-
 - Added Add Next Receipt -premium- Kiosk Feature.
+V2.66-
+- Added Work Order Change Name -premium- Feature.
