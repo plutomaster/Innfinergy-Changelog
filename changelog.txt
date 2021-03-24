@@ -421,5 +421,7 @@ V2.65-
 - Added Add Next Receipt -premium- Kiosk Feature.
 V2.66-
 - Added Work Order Change Name -premium- Feature.
-V2.66-
+V2.67-
 - Added Takeoff Quantity Edit -premium- Feature.
+V2.68-
+- Added Project-wide needed for each material in Verify Materials.
