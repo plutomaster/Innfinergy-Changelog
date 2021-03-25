@@ -425,3 +425,5 @@ V2.67-
 - Added Takeoff Quantity Edit -premium- Feature.
 V2.68-
 - Added Project-wide needed for each material in Verify Materials.
+V2.69-
+- Added Export Project Tax Feature under autofill.
