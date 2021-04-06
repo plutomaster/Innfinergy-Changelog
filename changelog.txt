@@ -427,3 +427,5 @@ V2.68-
 - Added Project-wide needed for each material in Verify Materials.
 V2.69-
 - Added Export Project Tax Feature under autofill.
+V2.70-
+- Updated Verify Materials to show On Order and Project Remaining Need.
