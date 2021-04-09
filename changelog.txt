@@ -431,3 +431,5 @@ V2.70-
 - Updated Verify Materials to show On Order and Project Remaining Need.
 V2.71-
 - Bugfixes.
+V2.72-
+- Added Labor Report -premium- Feature.
