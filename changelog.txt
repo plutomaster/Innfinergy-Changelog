@@ -435,3 +435,12 @@ V2.72-
 - Added Labor Report -premium- Feature.
 V2.73-
 - Added WO vs Contract - Audit Feature to Accessability.
+V2.74-
+- Verify Materials feature now runs on demand. Turned on when green button is clicked and stays on until page relaod.
+- WO vs Contract - Audit feature now on by default.
+- Innergy Refresh feature now has minimum 1 minute interval.
+- Innergy Refresh feature behavior change, now runs after (chosen time) minutes of inactivity.
+- Labor Report feature added Project Number and WO Number to output.
+
+
+
