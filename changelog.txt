@@ -441,6 +441,10 @@ V2.74-
 - Innergy Refresh feature now has minimum 1 minute interval.
 - Innergy Refresh feature behavior change, now runs after (chosen time) minutes of inactivity.
 - Labor Report feature added Project Number and WO Number to output.
+V2.75-
+- Added Inspect All -premium- Feature.
+- Added Material Request Notifier -premium- Feature.
+- Fixed Icon Middle Click feature.
 
 
 
