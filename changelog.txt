@@ -445,6 +445,5 @@ V2.75-
 - Added Inspect All -premium- Feature.
 - Added Material Request Notifier -premium- Feature.
 - Fixed Icon Middle Click feature.
-
-
-
+V2.76-
+- Updated Inspect All Feature.
