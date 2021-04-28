@@ -447,3 +447,6 @@ V2.75-
 - Fixed Icon Middle Click feature.
 V2.76-
 - Updated Inspect All Feature.
+V2.76-
+- Added Tasks Grid Date Highlighter Feature.
+- Added Budget Groups highlighter Feature.
