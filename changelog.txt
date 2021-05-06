@@ -453,3 +453,7 @@ V2.77-
 V2.78-
 - Added Project Closeout -premium- Feature.
 - Updated Add Group Summaries Feature.
+V2.79-
+- Update Invoice Percent Calculator Feature.
+- Added 'Bin' button to Verify Materials Feature.
+- Fixed Verify Materials Features On Order display.
