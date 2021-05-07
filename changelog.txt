@@ -457,3 +457,5 @@ V2.79-
 - Update Invoice Percent Calculator Feature.
 - Added 'Bin' button to Verify Materials Feature.
 - Fixed Verify Materials Features On Order display.
+V2.80-
+- Added Project to WO BOM converter -premium- Feature.
