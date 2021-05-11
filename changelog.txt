@@ -459,3 +459,7 @@ V2.79-
 - Fixed Verify Materials Features On Order display.
 V2.80-
 - Added Project to WO BOM converter -premium- Feature.
+V2.81-
+- Added Labor Kanban Kiosk Link Feature.
+- Fixed Proposal Mailer Feature.
+- Bugfixes.
