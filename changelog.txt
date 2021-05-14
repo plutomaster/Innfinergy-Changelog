@@ -463,3 +463,6 @@ V2.81-
 - Added Labor Kanban Kiosk Link Feature.
 - Fixed Proposal Mailer Feature.
 - Bugfixes.
+V2.82-
+- Added Inventory Map -premium- Feature.
+- Bugfixes.
