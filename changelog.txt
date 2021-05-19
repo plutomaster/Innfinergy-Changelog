@@ -466,6 +466,8 @@ V2.81-
 V2.82-
 - Added Inventory Map -premium- Feature.
 - Bugfixes.
-V2.82-
+V2.83-
 - Added Inventory Map to more places.
 - Removed On Hand Total from project Bom.
+V2.84-
+- Inventory Map Feature Improvements.
