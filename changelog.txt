@@ -471,3 +471,5 @@ V2.83-
 - Removed On Hand Total from project Bom.
 V2.84-
 - Inventory Map Feature Improvements.
+V2.84-
+- Inventory Map Feature Improvements.
