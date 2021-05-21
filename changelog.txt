@@ -476,3 +476,5 @@ V2.85-
 V2.86-
 - Added Budget Summary CO/ALT Colors Feature.
 - Bugfixes.
+V2.87-
+- Added Kanban Column Header Colors Feature.
