@@ -478,3 +478,5 @@ V2.86-
 - Bugfixes.
 V2.87-
 - Added Kanban Column Header Colors Feature.
+V2.88-
+- Bugfixes.
