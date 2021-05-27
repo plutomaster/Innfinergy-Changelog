@@ -480,3 +480,7 @@ V2.87-
 - Added Kanban Column Header Colors Feature.
 V2.88-
 - Bugfixes.
+V2.89-
+- Added optional Variance display to the Budget Groups highlighter Feature.
+- Added Grid Filter Builder -premium- Feature.
+- Take/Leave BoM now works with 'split'.
