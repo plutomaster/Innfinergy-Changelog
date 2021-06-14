@@ -488,3 +488,5 @@ V2.90-
 - Bugfixes.
 V2.91-
 - Added Material Duplicate Check -premium- Feature.
+V2.92-
+- Added Work Order Dates -premium- Feature.
