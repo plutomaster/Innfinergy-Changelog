@@ -490,3 +490,10 @@ V2.91-
 - Added Material Duplicate Check -premium- Feature.
 V2.92-
 - Added Work Order Dates -premium- Feature.
+V2.93-
+- Sales Forcaster feature retired.
+- Bottom Line Calculator feature retired.
+- Shipping Calendar feature removed # display.
+- Add Next Receipt disabled.
+- Inventory Map Fixed.
+- Material Request Notifier 250 item select function disabled.
