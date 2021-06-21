@@ -497,3 +497,6 @@ V2.93-
 - Add Next Receipt disabled.
 - Inventory Map Fixed.
 - Material Request Notifier 250 item select function disabled.
+V2.94-
+- Added Material Name Tool -premium- Feature.
+- Bugfixes.
