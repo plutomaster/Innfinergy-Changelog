@@ -500,3 +500,7 @@ V2.93-
 V2.94-
 - Added Material Name Tool -premium- Feature.
 - Bugfixes.
+V2.95-
+- Shipping Calendar Feature restored to full functionality.
+- Bugfixes.
+
