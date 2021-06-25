@@ -503,4 +503,5 @@ V2.94-
 V2.95-
 - Shipping Calendar Feature restored to full functionality.
 - Bugfixes.
-
+V2.96-
+- Innergy Refresh feature now stops updating after 15 minutes of inactivity.
