@@ -505,3 +505,7 @@ V2.95-
 - Bugfixes.
 V2.96-
 - Innergy Refresh feature now stops updating after 15 minutes of inactivity.
+V2.96-
+- Added PTO Hours -premium- Feature.
+- Fixed Material Request Notifier feature.
+
