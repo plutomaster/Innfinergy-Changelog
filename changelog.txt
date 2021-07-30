@@ -505,7 +505,13 @@ V2.95-
 - Bugfixes.
 V2.96-
 - Innergy Refresh feature now stops updating after 15 minutes of inactivity.
-V2.96-
+V2.97-
 - Added PTO Hours -premium- Feature.
 - Fixed Material Request Notifier feature.
-
+V2.98-
+- Kiosk MO Notes Manager now a -premium- only Feature (performance).
+- Kiosk Unalocated Time Warning Feature now a public feature.
+- PTO Hours Feature now excludes PTO hours from past days.
+- Added Material Request Date Preset -premium- Feature.
+- Fixed Shipping Calendar Feature.
+- Fixed Add Next Receipt Feature.
