@@ -515,3 +515,6 @@ V2.98-
 - Added Material Request Date Preset -premium- Feature.
 - Fixed Shipping Calendar Feature.
 - Fixed Add Next Receipt Feature.
+V2.99-
+- Retired Material On Hand Display feature.
+- Added Material Request Info -premium- feature.
