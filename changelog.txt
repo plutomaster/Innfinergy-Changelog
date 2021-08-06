@@ -518,3 +518,6 @@ V2.98-
 V2.99-
 - Retired Material On Hand Display feature.
 - Added Material Request Info -premium- feature.
+V3.00-
+- Improved Assign Custom Tags feature to work on the project grid.
+- Material Request Info now takes into account partialy delivered requests.
