@@ -521,3 +521,5 @@ V2.99-
 V3.00-
 - Improved Assign Custom Tags feature to work on the project grid.
 - Material Request Info now takes into account partialy delivered requests.
+V3.01-
+- Added Disable "Work on a Bid" feature.
