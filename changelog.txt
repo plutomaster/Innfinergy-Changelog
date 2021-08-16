@@ -523,3 +523,5 @@ V3.00-
 - Material Request Info now takes into account partialy delivered requests.
 V3.01-
 - Added Disable "Work on a Bid" feature.
+V3.02-
+- Added 'print label' function to Material Request Feature.
