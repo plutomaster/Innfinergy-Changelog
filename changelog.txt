@@ -524,4 +524,6 @@ V3.00-
 V3.01-
 - Added Disable "Work on a Bid" feature.
 V3.02-
-- Added 'print label' function to Material Request Feature.
+- Added 'print label' function to Material Request Info feature.
+V3.03-
+- Update to Material Request Info feature.
