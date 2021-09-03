@@ -527,5 +527,7 @@ V3.02-
 - Added 'print label' function to Material Request Info feature.
 V3.03-
 - Update to Material Request Info feature.
-V3.03-
+V3.04-
 - Added Sort Bottlenecks feature.
+V3.05-
+- Added PM Report Card -premium- feature.
