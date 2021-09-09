@@ -531,3 +531,5 @@ V3.04-
 - Added Sort Bottlenecks feature.
 V3.05-
 - Added PM Report Card -premium- feature.
+V3.06-
+- Added Shop Drawing Tool -premium- feature.
