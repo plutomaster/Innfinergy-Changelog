@@ -534,3 +534,8 @@ V3.05-
 V3.06-
 - Added Shop Drawing Tool -premium- feature.
 - Added Date Management Step Highlighter -premium- feature.
+V3.07-
+- Added File Button Move -premium- feature.
+- Added Publish Custom Regions -premium- feature.
+- Fixed Proposal Mailer feature.
+- Fixed Bottleneck PM Hider feature.
