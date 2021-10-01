@@ -539,3 +539,8 @@ V3.07-
 - Added Publish Custom Regions -premium- feature.
 - Fixed Proposal Mailer feature.
 - Fixed Bottleneck PM Hider feature.
+V3.08-
+- Added Shop Report Card -premium- feature.
+- Added Publish Custom Regions -premium- feature.
+- Shop Drawing Tool and Publish Custom Regions features are now public.
+- Bugfixes.
