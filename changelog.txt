@@ -544,3 +544,5 @@ V3.08-
 - Added Publish Custom Regions -premium- feature.
 - Shop Drawing Tool and Publish Custom Regions features are now public.
 - Bugfixes.
+V3.08-
+- Added Print Shop Drawings public kiosk feature.
