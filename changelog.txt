@@ -546,3 +546,9 @@ V3.08-
 - Bugfixes.
 V3.09-
 - Added Print Shop Drawings public kiosk feature.
+V3.10-
+- Innfinergy highlights takeoff 'Recalculate DC' message in takeoff when visible.
+- Print Shop Drawings feature will no longer attempt to print on a work order with no shop drawings.
+- Shop Drawing Tool and Publish Custom Regions features headers are now sticky to top when scrolling.
+- Shop Drawing Tool now auto refreshes grid after running.
+- Material Request Date Preset feature now prevents request dates in the past.
