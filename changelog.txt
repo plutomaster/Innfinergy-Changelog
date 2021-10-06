@@ -552,3 +552,7 @@ V3.10-
 - Shop Drawing Tool and Publish Custom Regions features headers are now sticky to top when scrolling.
 - Shop Drawing Tool now auto refreshes grid after running.
 - Material Request Date Preset feature now prevents request dates in the past.
+V3.11-
+- Shop Drawing Tool now displays number of selected shop drawings.
+- Shop Drawing Tool, Submit button was split into Overwrite and Append, see mouseover tooltip for information.
+- Print Shop Drawings feature now has attempt timeouts, bugfixes.
