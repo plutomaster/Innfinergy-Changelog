@@ -556,3 +556,7 @@ V3.11-
 - Shop Drawing Tool now displays number of selected shop drawings.
 - Shop Drawing Tool, Submit button was split into Overwrite and Append, see mouseover tooltip for information.
 - Print Shop Drawings feature now has attempt timeouts, bugfixes.
+V3.12-
+- Added Remake Work Order -premium- feature.
+- Fixed region saving in Publish Custom Regions feature.
+- Removed Sort Bottlenecks feature.
