@@ -560,3 +560,6 @@ V3.12-
 - Added Remake Work Order -premium- feature.
 - Fixed region saving in Publish Custom Regions feature.
 - Removed Sort Bottlenecks feature.
+V3.13-
+- Material Duplicate Check and Material Name Tool added to Clone and Swap Material popup.
+- Add Next Receipt feature icon will link to web Work Order.
