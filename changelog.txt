@@ -563,3 +563,6 @@ V3.12-
 V3.13-
 - Material Duplicate Check and Material Name Tool added to Clone and Swap Material popup.
 - Add Next Receipt feature icon will link to web Work Order.
+V3.14-
+- Budget Groups highlighter now saves variance selection between pageloads.
+- Material Request Info now highlights based off hours
