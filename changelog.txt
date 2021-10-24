@@ -566,3 +566,6 @@ V3.13-
 V3.14-
 - Budget Groups highlighter now saves variance selection between pageloads.
 - Material Request Info now highlights based off hours
+V3.15-
+- Added Labor Kanban Step -premium- feature.
+- Bugfix for Kiosk Banner Image.
