@@ -569,3 +569,5 @@ V3.14-
 V3.15-
 - Added Labor Kanban Step -premium- feature.
 - Bugfix for Kiosk Banner Image.
+V3.16-
+- Added Kanban Group Search and Refresh -premium- feature.
