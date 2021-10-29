@@ -571,3 +571,7 @@ V3.15-
 - Bugfix for Kiosk Banner Image.
 V3.16-
 - Added Kanban Group Search and Refresh -premium- feature.
+V3.17-
+- Added Kanban Move Log public feature.
+- Material Request Info date colors update every minute.
+- Added a clear search button to Kanban Group Search and Refresh.
