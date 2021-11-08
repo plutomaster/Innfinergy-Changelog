@@ -575,3 +575,6 @@ V3.17-
 - Added Kanban Move Log public feature.
 - Material Request Info date colors update every minute.
 - Added a clear search button to Kanban Group Search and Refresh.
+V3.18-
+- Added Kanban Menu -premium- feature.
+- Added Force Production Ready -premium- feature.
