@@ -578,3 +578,6 @@ V3.17-
 V3.18-
 - Added Kanban Menu -premium- feature.
 - Added Force Production Ready -premium- feature.
+V3.19
+- Added Shop Drawings Back Button -premium- feature.
+- Added Kanban Menu improvements.
