@@ -581,3 +581,6 @@ V3.18-
 V3.19
 - Added Shop Drawings Back Button -premium- feature.
 - Added Kanban Menu improvements.
+V3.20
+- Fixed features that ran on budget summary pages.
+- Fixed Materials to Buy Edit function.
