@@ -584,3 +584,6 @@ V3.19
 V3.20
 - Fixed features that ran on budget summary pages.
 - Fixed Materials to Buy Edit function.
+V3.21
+- Issue fix: Assign Custom Tags no longer allows commas in tags, replaced with periods.
+- Added grouped @ mentions menue to Kiosk MO Notes Manager feature.
