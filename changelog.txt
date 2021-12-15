@@ -587,5 +587,10 @@ V3.20
 V3.21
 - Issue fix: Assign Custom Tags no longer allows commas in tags, replaced with periods.
 - Added grouped @ mentions menue to Kiosk MO Notes Manager feature.
-V3.25
+V3.22
 - Added Shop Capacity -premium- feature.
+V3.23
+- Added Bottleneck PM in Workflow Hider feature.
+- Fixed Kiosk Wo Job Name feature.
+- Fixed Assign Custom Tags feature.
+- Fixed Open Bulk Work Orders feature.
