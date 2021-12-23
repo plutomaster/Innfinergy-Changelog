@@ -594,7 +594,12 @@ V3.23
 - Fixed Kiosk Wo Job Name feature.
 - Fixed Assign Custom Tags feature.
 - Fixed Open Bulk Work Orders feature.
-V3.23
+V3.24
 - Fixed Budget Groups highlighter feature.
 - Fixed blank options menu when not logged in.
 - Removed Add Group Summaries feature from material transaction history page (technical issue).
+V3.25
+- Bugfixes.
+V3.26
+- Added 'Expand to' function that expands selected rows to Open Bulk Work Orders feature.
+- Added Assign Custom Tags feature to project, opportunity and work order files pages.
