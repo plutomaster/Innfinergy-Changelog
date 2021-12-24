@@ -578,31 +578,31 @@ V3.17-
 V3.18-
 - Added Kanban Menu -premium- feature.
 - Added Force Production Ready -premium- feature.
-V3.19
+V3.19-
 - Added Shop Drawings Back Button -premium- feature.
 - Added Kanban Menu improvements.
-V3.20
+V3.20-
 - Fixed features that ran on budget summary pages.
 - Fixed Materials to Buy Edit function.
-V3.21
+V3.21-
 - Issue fix: Assign Custom Tags no longer allows commas in tags, replaced with periods.
 - Added grouped @ mentions menue to Kiosk MO Notes Manager feature.
-V3.22
+V3.22-
 - Added Shop Capacity -premium- feature.
-V3.23
+V3.23-
 - Added Bottleneck PM in Workflow Hider feature.
 - Fixed Kiosk Wo Job Name feature.
 - Fixed Assign Custom Tags feature.
 - Fixed Open Bulk Work Orders feature.
-V3.24
+V3.24-
 - Fixed Budget Groups highlighter feature.
 - Fixed blank options menu when not logged in.
 - Removed Add Group Summaries feature from material transaction history page (technical issue).
-V3.25
+V3.25-
 - Bugfixes.
-V3.26
+V3.26-
 - Added 'Expand to' function that expands selected rows to Open Bulk Work Orders feature.
 - Added Assign Custom Tags feature to project, opportunity and work order files pages.
-V3.26
+V3.27-
 - Shop Capacity feature improvements.
 
