@@ -603,3 +603,6 @@ V3.25
 V3.26
 - Added 'Expand to' function that expands selected rows to Open Bulk Work Orders feature.
 - Added Assign Custom Tags feature to project, opportunity and work order files pages.
+V3.26
+- Shop Capacity feature improvements.
+
