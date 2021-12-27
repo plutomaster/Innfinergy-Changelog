@@ -605,4 +605,5 @@ V3.26-
 - Added Assign Custom Tags feature to project, opportunity and work order files pages.
 V3.27-
 - Shop Capacity feature improvements.
-
+V3.28-
+- Added Bulk Inventory Move -premium- feature.
