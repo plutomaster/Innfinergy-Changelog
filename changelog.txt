@@ -609,3 +609,6 @@ V3.28-
 - Added Bulk Inventory Move -premium- feature.
 V3.29-
 - Added Material Progress -premium- feature.
+V3.30-
+- Bugfixes.
+- Added menu buttons to options page.
