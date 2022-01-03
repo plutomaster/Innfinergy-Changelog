@@ -612,3 +612,8 @@ V3.29-
 V3.30-
 - Bugfixes.
 - Added menu buttons to options page.
+V3.31-
+- Clicking Innfinergy extension icon opens new popup menu.
+- Clicking remaing material cell in the Material Progress feature links to filtered inventory by bin page.
+- Added manaul refresh to Shop Report Card feature.
+- Removed extra buttons in options page.
