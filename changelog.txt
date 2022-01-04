@@ -617,3 +617,6 @@ V3.31-
 - Clicking remaing material cell in the Material Progress feature links to filtered inventory by bin page.
 - Added manaul refresh to Shop Report Card feature.
 - Removed extra buttons in options page.
+V3.31-
+- Added Bom Convert Autocheck -premium- feature.
+- Changed Kanban Column Header Colors feature to have colors company wide for the labor kanban -premium-.
