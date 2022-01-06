@@ -623,3 +623,5 @@ V3.32-
 V3.33-
 - Added remaining material by budget group button to Material Progress feature.
 - Bugfixes.
+V3.34-
+- Added links to Material Progress budget group buttons to filtered Inventory by Bin grid.
