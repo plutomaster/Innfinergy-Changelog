@@ -625,3 +625,6 @@ V3.33-
 - Bugfixes.
 V3.34-
 - Added links to Material Progress budget group buttons to filtered Inventory by Bin grid.
+V3.35-
+- Fixed links to pre-filtered grids.
+- Added Bulk Material Progress -premium- feature.
