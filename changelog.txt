@@ -628,3 +628,5 @@ V3.34-
 V3.35-
 - Fixed links to pre-filtered grids.
 - Added Bulk Material Progress -premium- feature.
+V3.36-
+- Added grid view to Bulk Material Progress feature.
