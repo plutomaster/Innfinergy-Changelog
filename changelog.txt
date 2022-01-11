@@ -630,3 +630,6 @@ V3.35-
 - Added Bulk Material Progress -premium- feature.
 V3.36-
 - Added grid view to Bulk Material Progress feature.
+V3.37-
+- Added Forcaster Hours -premium- feature.
+- Bugfixes.
