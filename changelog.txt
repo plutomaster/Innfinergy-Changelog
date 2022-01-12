@@ -633,3 +633,5 @@ V3.36-
 V3.37-
 - Added Forcaster Hours -premium- feature.
 - Bugfixes.
+V3.38-
+- Bugfixes.
