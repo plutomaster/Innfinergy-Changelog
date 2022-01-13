@@ -635,3 +635,5 @@ V3.37-
 - Bugfixes.
 V3.38-
 - Bugfixes.
+V3.39-
+- Added Work Order Date Export -public- feature to the Accessibility category.
