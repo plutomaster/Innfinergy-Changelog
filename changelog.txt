@@ -637,3 +637,5 @@ V3.38-
 - Bugfixes.
 V3.39-
 - Added Work Order Date Export -public- feature to the Accessibility category.
+V3.40-
+- Added Unselect All -public- feature to the Tables category.
