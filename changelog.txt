@@ -639,3 +639,6 @@ V3.39-
 - Added Work Order Date Export -public- feature to the Accessibility category.
 V3.40-
 - Added Unselect All -public- feature to the Tables category.
+V3.41-
+- Added Reply to Note -public- feature to the Autofill category.
+- Added reply functionality to Kiosk MO Notes Manager.
