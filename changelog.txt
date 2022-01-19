@@ -642,3 +642,6 @@ V3.40-
 V3.41-
 - Added Reply to Note -public- feature to the Autofill category.
 - Added reply functionality to Kiosk MO Notes Manager.
+V3.42-
+- Added Work Order Label -premium- feature.
+- Bugfixes
