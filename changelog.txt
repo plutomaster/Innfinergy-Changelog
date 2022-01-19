@@ -644,4 +644,5 @@ V3.41-
 - Added reply functionality to Kiosk MO Notes Manager.
 V3.42-
 - Added Work Order Label -premium- feature.
+- Added Project Bom WO Link Select -premium- feature.
 - Bugfixes
