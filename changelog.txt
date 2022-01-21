@@ -646,3 +646,9 @@ V3.42-
 - Added Work Order Label -premium- feature.
 - Added Project Bom WO Link Select -premium- feature.
 - Bugfixes
+V3.43-
+- Fixed Material Request Info labels.
+- Added Work Order Label button to material requests from Inventory screen.
+- Added Shop Capacity to Forecast.
+- Added configurable capacity calculation to Forcaster Hours.
+- Shop Capacity now shows departments even if they are missing from data.
