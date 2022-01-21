@@ -649,6 +649,10 @@ V3.42-
 V3.43-
 - Fixed Material Request Info labels.
 - Added Work Order Label button to material requests from Inventory screen.
-- Added Shop Capacity to Forecast.
+- Added Shop Capacity to Innergy Forcaster.
 - Added configurable capacity calculation to Forcaster Hours.
 - Shop Capacity now shows departments even if they are missing from data.
+V3.44-
+- Added filled % to Forcaster Hours.
+- Added Inventory Map links to work order bom dropdown grids.
+- Bugfixes.
