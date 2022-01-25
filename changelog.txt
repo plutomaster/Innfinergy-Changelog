@@ -656,3 +656,5 @@ V3.44-
 - Added filled % to Forcaster Hours.
 - Added Inventory Map links to work order bom dropdown grids.
 - Bugfixes.
+V3.45-
+- Bugfixes to multiple feateres after site update.
