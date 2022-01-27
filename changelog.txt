@@ -658,3 +658,6 @@ V3.44-
 - Bugfixes.
 V3.45-
 - Bugfixes to multiple feateres after site update.
+V3.46-
+- Fix for Shop Drawing Tool
+
