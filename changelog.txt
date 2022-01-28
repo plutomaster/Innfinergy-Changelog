@@ -660,4 +660,7 @@ V3.45-
 - Bugfixes to multiple feateres after site update.
 V3.46-
 - Fix for Shop Drawing Tool
-
+V3.47-
+- Bugfix for Verify Materials.
+- Added Clear Alerts -premium- feature.
+- Added Kiosk Files Link -premium- feature.
