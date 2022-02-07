@@ -664,3 +664,5 @@ V3.47-
 - Bugfix for Verify Materials.
 - Added Clear Alerts -premium- feature.
 - Added Kiosk Files Link -premium- feature.
+V3.47-
+- Bugfix to Print Shop Drawings.
