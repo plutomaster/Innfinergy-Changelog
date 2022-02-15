@@ -668,3 +668,7 @@ V3.48-
 - Bugfix to Print Shop Drawings.
 V3.49-
 - Major fixes due to Innergy change.
+V3.50-
+- Added Inventory Map icons to Filled Material Requests Return Materials window.
+- Added Bulk WO Date Override -public- feature.
+- Bugfixes.
