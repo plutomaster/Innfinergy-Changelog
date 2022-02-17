@@ -672,3 +672,6 @@ V3.50-
 - Added Inventory Map icons to Filled Material Requests Return Materials window.
 - Added Bulk WO Date Override -public- feature.
 - Bugfixes.
+V3.51-
+- Fixed Kiosk WO Notes Manager name being undefined.
+- Fixed Bulk Inventory Move.
