@@ -675,3 +675,6 @@ V3.50-
 V3.51-
 - Fixed Kiosk WO Notes Manager name being undefined.
 - Fixed Bulk Inventory Move.
+V3.52-
+- Updated various feateres broken by update.
+- Fixed Remaining Hours Popup to show correct totals.
