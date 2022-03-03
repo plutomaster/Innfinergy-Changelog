@@ -680,4 +680,8 @@ V3.52-
 - Fixed Remaining Hours Popup to show correct totals.
 V3.53-
 - Added Machine Center -premium- feature.
+V3.54-
+- Material Request Info shows yellow on hand value when above 0 but below requested.
+- Fix to Create PO Rounder value input.
+- Added Kiosk Custom Fields -public- feature to Kiosk category.
 
