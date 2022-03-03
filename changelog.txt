@@ -678,3 +678,6 @@ V3.51-
 V3.52-
 - Updated various feateres broken by update.
 - Fixed Remaining Hours Popup to show correct totals.
+V3.53-
+- Added Machine Center -premium- feature.
+
