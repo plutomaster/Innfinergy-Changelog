@@ -684,4 +684,5 @@ V3.54-
 - Material Request Info shows yellow on hand value when above 0 but below requested.
 - Fix to Create PO Rounder value input.
 - Added Kiosk Custom Fields -public- feature to Kiosk category.
-
+V3.55-
+-  Added Cost Rate to Material Progress and Bulk Material Progress.
