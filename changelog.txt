@@ -686,3 +686,5 @@ V3.54-
 - Added Kiosk Custom Fields -public- feature to Kiosk category.
 V3.55-
 -  Added Cost Rate to Material Progress and Bulk Material Progress.
+V3.56-
+-  Bugfix for Search Saver.
