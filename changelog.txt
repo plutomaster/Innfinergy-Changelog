@@ -685,6 +685,9 @@ V3.54-
 - Fix to Create PO Rounder value input.
 - Added Kiosk Custom Fields -public- feature to Kiosk category.
 V3.55-
--  Added Cost Rate to Material Progress and Bulk Material Progress.
+- Added Cost Rate to Material Progress and Bulk Material Progress.
 V3.56-
--  Bugfix for Search Saver.
+- Bugfix for Search Saver.
+V3.56-
+- Bugfix for Product Cost - Material/Labor Breakout.
+- Updates to Machine Center.
