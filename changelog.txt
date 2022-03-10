@@ -691,3 +691,5 @@ V3.56-
 V3.57-
 - Bugfix for Product Cost - Material/Labor Breakout.
 - Updates to Machine Center.
+V3.58-
+- Updates to Machine Center.
