@@ -688,6 +688,6 @@ V3.55-
 - Added Cost Rate to Material Progress and Bulk Material Progress.
 V3.56-
 - Bugfix for Search Saver.
-V3.56-
+V3.57-
 - Bugfix for Product Cost - Material/Labor Breakout.
 - Updates to Machine Center.
