@@ -693,3 +693,6 @@ V3.57-
 - Updates to Machine Center.
 V3.58-
 - Updates to Machine Center.
+V3.59-
+- Added Pallet Label -public- feature to Kanban category.
+- Kanban Menu feature now adds tooltip to card instructions.
