@@ -696,3 +696,8 @@ V3.58-
 V3.59-
 - Added Pallet Label -public- feature to Kanban category.
 - Kanban Menu feature now adds tooltip to card instructions.
+V3.60-
+- Added Currency Text Replacer -public- feature to Accessibility category.
+- Added Project Materials Creator -premium- feature.
+- Added PO Change Log -premium- feature.
+- Bugfixes.
