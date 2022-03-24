@@ -701,3 +701,6 @@ V3.60-
 - Added Project Materials Creator -premium- feature.
 - Added PO Change Log -premium- feature.
 - Bugfixes.
+V3.60-
+- Added Workflow Warning -premium- feature.
+- Bugfixes.
