@@ -708,6 +708,9 @@ V3.62-
 - Summary Cost Calculator now works with alternate currency symbols.
 - Made Unalocated Time Warning more annoying.
 - Fixed issue with Reply to Note for some permission settings.
-- Fixed Kanban Search Saver.
+- Fixed Kanban Sort Saver.
 - Fixed Kanban Column Header Colors.
 - Bugfixes.
+V3.63-
+- Fixed Kanban Search Saver Saver.
+- Added pallet sticker button to Work Order Label Feature.
