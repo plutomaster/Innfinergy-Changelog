@@ -716,3 +716,5 @@ V3.63-
 - Added pallet sticker button to Work Order Label Feature.
 V3.64-
 - Fixed Proposal Mailer feature.
+V3.65-
+- Added Outlook Calendar Integration -public- feature to Accessibility category.
