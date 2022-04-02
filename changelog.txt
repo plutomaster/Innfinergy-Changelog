@@ -718,3 +718,6 @@ V3.64-
 - Fixed Proposal Mailer feature.
 V3.65-
 - Added Outlook Calendar Integration -public- feature to Accessibility category.
+V3.66-
+- Bugfixes.
+- Improvements to Outlook Calendar Integration feature.
