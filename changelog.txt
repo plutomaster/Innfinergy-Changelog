@@ -725,3 +725,5 @@ V3.67-
 - Material Request Link to Work Order feature removed and rolled into Material Request Info feature.
 - Material Request Info makes work order number into link to kiosk work order and mouseover text to project > work order name
 - Product Cost - Material/Labor Breakout fixed.
+V3.67-
+- Bugfixes.
