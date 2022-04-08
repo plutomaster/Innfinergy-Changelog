@@ -730,3 +730,5 @@ V3.68-
 V3.69-
 - Bugfixes.
 - Added Outlook Contact Integration -public- feature to Accessibility category.
+V3.70-
+- Outlook Contact Integration export added to contacts people grid and detail pages.
