@@ -732,3 +732,6 @@ V3.69-
 - Added Outlook Contact Integration -public- feature to Accessibility category.
 V3.70-
 - Outlook Contact Integration export added to contacts people grid and detail pages.
+V3.71-
+- Fixed Add Group Summaries feature.
+- Added all phone numbers to people export with Outlook Contact Integration feature.
