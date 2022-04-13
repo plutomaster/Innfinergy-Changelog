@@ -735,3 +735,5 @@ V3.70-
 V3.71-
 - Fixed Add Group Summaries feature.
 - Added all phone numbers to people export with Outlook Contact Integration feature.
+V3.72-
+- Added Brandless Shippment Items Label -public- feature to Kiosk category.
