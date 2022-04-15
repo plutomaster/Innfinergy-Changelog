@@ -740,3 +740,5 @@ V3.72-
 V3.73-
 - Added Improved Custom Fields -public- feature to Accessibility category.
 - Added PM Workload Navigation -public- feature to Autofill category.
+V3.74-
+- Bugfixes.
