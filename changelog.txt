@@ -737,3 +737,6 @@ V3.71-
 - Added all phone numbers to people export with Outlook Contact Integration feature.
 V3.72-
 - Added Brandless Shippment Items Label -public- feature to Kiosk category.
+V3.73-
+- Added Improved Custom Fields -public- feature to Accessibility category.
+- Added PM Workload Navigation -public- feature to Autofill category.
