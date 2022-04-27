@@ -742,3 +742,6 @@ V3.73-
 - Added PM Workload Navigation -public- feature to Autofill category.
 V3.74-
 - Bugfixes.
+V3.75-
+- Update due to Innergy update.
+- Fixed Budget Group variance tool.
