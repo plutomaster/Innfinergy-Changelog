@@ -745,3 +745,6 @@ V3.74-
 V3.75-
 - Update due to Innergy update.
 - Fixed Budget Group variance tool.
+V3.76-
+- Added Bottleneck Gradient -public- feature to Accessibility category.
+- Bugfixes.
