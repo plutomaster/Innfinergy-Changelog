@@ -748,7 +748,7 @@ V3.75-
 V3.76-
 - Added Bottleneck Gradient -public- feature to Accessibility category.
 - Bugfixes.
-V3.77-
+V3.78-
 - Removed Work Order Change Name feature.
 - Removed Materials to Buy Edit feature.
 - Removed Project Bom Edit Needed feature.
@@ -756,3 +756,5 @@ V3.77-
 - Fixed Bulk Move Material feature.
 - Added Materials to Buy Step Info -private- feature.
 - Added Work Order Label to Kanban Menu feature.
+V3.77-
+- Bugfix
