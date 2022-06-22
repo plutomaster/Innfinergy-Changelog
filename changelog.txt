@@ -758,3 +758,10 @@ V3.78-
 - Added Work Order Label to Kanban Menu feature.
 V3.77-
 - Bugfix
+V4.00-
+- Major code update.
+- Inventory Map feature now -Public-.
+- Kiosk Banner Image [Message Of The Day] feature now -Public-.
+- New options menu.
+- New Admin Settings Override controls.
+- Chrome Manifest v3 update.
