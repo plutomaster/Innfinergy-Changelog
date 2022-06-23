@@ -765,3 +765,9 @@ V4.00-
 - New options menu.
 - New Admin Settings Override controls.
 - Chrome Manifest v3 update.
+V4.01-
+- Fixed major bug during logout screen. (Innfinergy v4.00 was emergency disabled on 6/23, re-enabled by v4.01 update)
+- Fixed Material Legend feature on opportunities. (still down on takeoff).
+- Fixed Inventory Map material links ({object, object} bug).
+- Improved Inventory Map, can now better search for material names with leading or trailing spaces.
+- Fixed edge case with Innfinergy stuck in disabled mode.
