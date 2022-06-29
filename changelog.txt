@@ -1,7 +1,10 @@
 Innfinergy
 
 
-
+V4.02-
+- Rewrite of Material Legend with restored takeoff functionality.
+- Added Premium tag to features.
+- Authentication process now uses Kiosk login call.
 V4.01-
 - Fixed major bug during logout screen. (Innfinergy v4.00 was emergency disabled on 6/23, re-enabled by v4.01 update)
 - Fixed Material Legend feature on opportunities. (still down on takeoff).
