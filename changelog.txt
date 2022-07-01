@@ -1,6 +1,9 @@
 Innfinergy
 
-
+V4.03-
+- Re-Added Reply to Note Feature. Now adds @ mentions to default Innergy reply button. Can also hide default reply button (toggle in settings).
+- Invoice Percent Calculator now optionaly works on Materials Presently Stored column. Also can be applied to all columns at once.
+- Kiosk Banner Image [Message Of the Day] additional edit items now dont overlap other floating windows.
 V4.02-
 - Rewrite of Material Legend with restored takeoff functionality.
 - Added Premium tag to features.
