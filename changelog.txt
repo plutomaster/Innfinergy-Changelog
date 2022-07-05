@@ -1,5 +1,16 @@
 Innfinergy
 
+V4.04-
+- Shop Drawings Back Button feature changed to Kiosk Back Button Fix feature and now works on kiosk notes page.
+- A number of -Premium- features are now -Public-. Many are off by default, check your settings.
+- Smooth Checkbox feature now public.
+- Open Bulk Work Orders now public.
+- Scroll Saver now public.
+- Kanban Menus now public.
+- Kiosk Back Button Fix now public.
+- Force Production Ready now public.
+- Kiosk Files Link now public.
+- Clear Alerts now public.
 V4.03-
 - Re-Added Reply to Note Feature. Now adds @ mentions to default Innergy reply button. Can also hide default reply button (toggle in settings).
 - Invoice Percent Calculator now optionaly works on Materials Presently Stored column. Also can be applied to all columns at once.
