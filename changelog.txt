@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.05-
+-Innfinergy options menu can now use the header filter in an And operation (example: show features with Grid and Tool tags).
+-Innfinergy options menu Auto and Manual columns can now be sorted.
+-Material Legend, hitting tab after inputing text will now advance to next cell. New rows will auto-focus the first input cell.
+-Improved Innfinergys initial loading time.
 V4.04-
 - Shop Drawings Back Button feature changed to Kiosk Back Button Fix feature and now works on kiosk notes page.
 - A number of -Premium- features are now -Public-. Many are off by default, check your settings.
