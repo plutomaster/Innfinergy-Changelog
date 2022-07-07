@@ -1,6 +1,10 @@
 Innfinergy
 
+V4.06-
+- PTO Hours feature updated to use keystore.
+- Bugfixes
 V4.05-
+-Material Request Info feature now public.
 -Innfinergy options menu can now use the header filter in an And operation (example: show features with Grid and Tool tags).
 -Innfinergy options menu Auto and Manual columns can now be sorted.
 -Material Legend, hitting tab after inputing text will now advance to next cell. New rows will auto-focus the first input cell.
