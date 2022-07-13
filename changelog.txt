@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.07-
+- Shop Capacity feature now public.
+- PTO Hours feature now public.
+- Added Forecasted Hours to Forecaster Hours feature.
+- Major performace update to main runtime loop.
 V4.06-
 - PTO Hours feature updated to use keystore.
 - Bugfixes
