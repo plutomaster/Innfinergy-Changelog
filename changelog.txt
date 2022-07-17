@@ -1,5 +1,9 @@
 Innfinergy
 
+V4.08-
+- Fix to Reply to Note feature.
+- Additional performace improvements.
+- Bugfixes.
 V4.07-
 - Shop Capacity feature now public.
 - PTO Hours feature now public.
