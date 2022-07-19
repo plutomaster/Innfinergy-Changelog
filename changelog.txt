@@ -1,5 +1,12 @@
 Innfinergy
 
+V4.09-
+- Bugfix for Invoice Percent Calculator.
+- Added feature Shipping Tools -public-.
+- Added feature Wo Invoice Calculator -public-.
+- Material Request Date Preset feature now adds request creation time to notes.
+- Material Request Info feature displays request creation time if available.
+- Additional performace improvements.
 V4.08-
 - Fix to Reply to Note feature.
 - Additional performace improvements.
