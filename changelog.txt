@@ -1,13 +1,16 @@
 Innfinergy
 
+V4.12-
+- Added feature Kiosk PO Notes Manager -Premium-.
+- Bugfixes.
 V4.11-
 - Bugfixes.
 V4.10-
 - Bugfixes.
 V4.09-
 - Bugfix for Invoice Percent Calculator.
-- Added feature Shipping Tools -public-.
-- Added feature Wo Invoice Calculator -public-.
+- Added feature Shipping Tools -Public-.
+- Added feature Wo Invoice Calculator -Public-.
 - Material Request Date Preset feature now adds request creation time to notes.
 - Material Request Info feature displays request creation time if available.
 - Additional performace improvements.
