@@ -1,5 +1,7 @@
 Innfinergy
 
+V4.13-
+- Added feature Upload WO Pictures -Premium-.
 V4.12-
 - Added feature Kiosk PO Notes Manager -Premium-.
 - Bugfixes.
