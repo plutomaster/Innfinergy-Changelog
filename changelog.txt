@@ -1,8 +1,10 @@
 Innfinergy
+
+V4.15-
+- Inventory Map feature now has a heatmap.
+V4.14-
 - Forecaster Hours feature now -Public-.
 - Added A/R Bottleneck feature -Public-.
-V4.14-
-- Added feature Upload WO Pictures -Premium-.
 V4.13-
 - Added feature Upload WO Pictures -Premium-.
 V4.12-
