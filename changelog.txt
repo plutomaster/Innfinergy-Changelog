@@ -1,5 +1,9 @@
 Innfinergy
 
+V4.16-
+- Updated Bottleneck Hide Rows feature.
+- Clicking on bins in Inventory Map will open drilldown popup. (Works with heatmap)
+- Updates for Innergy 85.
 V4.15-
 - Inventory Map feature now has a heatmap.
 V4.14-
