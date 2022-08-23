@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.17-
+- Inventory Map drilldown grids have added filterting and resizing options.
+- Forecast Hours 'Forecasted Hours' row now toggles to show hours + Remaining Hours and a %.
+- Forecast Hours now configurable to show drafting, production, and/or install. Defaults to all on pageload. See options menu gear.
+- Bugfixes.
 V4.16-
 - Updated Bottleneck Hide Rows feature.
 - Clicking on bins in Inventory Map will open drilldown popup. (Works with heatmap)
