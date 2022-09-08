@@ -1,5 +1,8 @@
 Innfinergy
 
+V4.18-
+- Added Task Replicate feature -Public-.
+- Added Forecaster Tracking feature -Public-.
 V4.17-
 - Inventory Map drilldown grids have added filterting and resizing options.
 - Forecast Hours 'Forecasted Hours' row now toggles to show hours + Remaining Hours and a %.
