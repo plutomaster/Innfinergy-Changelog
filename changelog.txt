@@ -1,5 +1,8 @@
 Innfinergy
 
+V4.19-
+- Added more grids to Forecaster Tracking feature.
+- Added a 'Go To Office' button to Shipping Tools feature.
 V4.18-
 - Added Task Replicate feature -Public-.
 - Added Forecaster Tracking feature -Public-.
