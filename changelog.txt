@@ -4,6 +4,7 @@ V4.20-
 - Added WO Engineering Sync Button feature -Premium-.
 - Added a 'Go To Office' button to Shipping Tools feature.
 - Forecaster Hours feature now saves Work Phase Types selection, these settings are synced with Forecaster Tracking feature.
+- Fixed Task Replicate feature bug that prevents the replication of tasks without descriptions.
 - Bugfixes
 V4.19-
 - Added more grids to Forecaster Tracking feature.
