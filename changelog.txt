@@ -1,8 +1,14 @@
 Innfinergy
 
+V4.20-
+- Added WO Engineering Sync Button feature -Premium-.
+- Added a 'Go To Office' button to Shipping Tools feature.
+- Forecaster Hours feature now saves Work Phase Types selection, these settings are synced with Forecaster Tracking feature.
+- Bugfixes
 V4.19-
 - Added more grids to Forecaster Tracking feature.
 - Added a 'Go To Office' button to Shipping Tools feature.
+- Forecaster Hours feature has drafting removed from default Work Phase Types selection.
 V4.18-
 - Added Task Replicate feature -Public-.
 - Added Forecaster Tracking feature -Public-.
