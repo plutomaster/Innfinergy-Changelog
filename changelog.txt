@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.22-
+- Added Bulk Master Note Edit feature -Public-.
+- Added link to project team page from kiosk shipment, part of Shipping Tools feature.
+- Kanban Column Header Colors feature now has company admin definable colors for labor kanban. 
+- Fixes for upcoming Innergy update.
 V4.21-
 - Added Switch Shipment feature -Public-.
 V4.20-
