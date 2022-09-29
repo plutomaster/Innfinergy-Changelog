@@ -1,5 +1,9 @@
 Innfinergy
 
+V4.23-
+- Added MES Shop Floor feature -Public-. 
+- Added edit shipment button to Shipping Tools feature.
+- Shipping tools feature now on by default.
 V4.22-
 - Added Bulk Master Note Edit feature -Public-.
 - Added link to project team page from kiosk shipment, part of Shipping Tools feature.
