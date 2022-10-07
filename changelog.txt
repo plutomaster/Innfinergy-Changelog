@@ -1,6 +1,11 @@
 Innfinergy
 
 V4.23-
+- Added Scan to Add to Shipment feature -Public-.
+- File Button Move feature can now also move 'Export as PDF' button in Kiosk WO's (options toggle).
+- Material Request Info feature now has optional toggle to sort grid on pageload to descending 'Qty On Hand'.
+- Bugfix for crash on MES Shop floor and Forecaster Hours feature on freash instances.
+V4.23-
 - Added MES Shop Floor feature -Public-. 
 - Added edit shipment button to Shipping Tools feature.
 - Shipping tools feature now on by default.
