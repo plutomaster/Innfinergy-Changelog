@@ -1,6 +1,11 @@
 Innfinergy
 
-V4.23-
+V4.25-
+- Added Select Shipped WO's feature -Premium-.
+- MES Shop Floor feature now shows employee # currently clocked now and today with drilldown.
+- Added functionality to Material Request Info feature that notifies the requester on fulfillment -Premium-.
+- Bugfix for Bottleneck Hide Rows feature.
+V4.24-
 - Added Scan to Add to Shipment feature -Public-.
 - Shipping Tools has new button to open all WO's of unassined shipment items as new tabs in kiosk view.
 - File Button Move feature can now also move 'Export as PDF' button in Kiosk WO's (options toggle).
