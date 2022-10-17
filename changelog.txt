@@ -1,5 +1,7 @@
 Innfinergy
 
+V4.26-
+- Bugfixes.
 V4.25-
 - Added Select Shipped WO's feature -Premium-.
 - MES Shop Floor feature now shows employee # currently clocked now and today with drilldown.
