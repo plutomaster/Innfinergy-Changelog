@@ -1,5 +1,7 @@
 Innfinergy
 
+V4.28-
+- Update for upcoming Innergy version.
 V4.27-
 - MES Shop Floor visual and bugfixes.
 - AR Bottleneck feature now has toggle between age by invoice due date or creation date.
