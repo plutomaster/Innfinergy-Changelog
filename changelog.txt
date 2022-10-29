@@ -1,5 +1,9 @@
 Innfinergy
 
+V4.29-
+- Added to Inventory Map feature ability to search material name on google images. -Premium- for now.
+- Fixed Timeclock Data Display feature.
+- Open Bulk Work Orders feature now allows opening Date Managment dropdown pre-scrolled to right.
 V4.28-
 - Update for upcoming Innergy version.
 V4.27-
