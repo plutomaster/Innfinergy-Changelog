@@ -1,5 +1,11 @@
 Innfinergy
 
+V4.31-
+- Removed Select/Deselect All Columns Buttons feature.
+- Bottleneck Hide Rows feature now works on Bottleneck Labor page.
+- Forecaster Hours feature update, drafting/production/install breakout for capacity and sales forecaster labor hours.
+V4.30-
+- Added Labor Alert feature -Premium-
 V4.29-
 - Added to Inventory Map feature ability to search material name on google images. -Premium- for now.
 - Fixed Timeclock Data Display feature.
