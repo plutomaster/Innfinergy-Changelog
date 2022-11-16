@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.32-
+- Budget Summary CO/ALT Colors changed to Select Accepted Alternates feature.
+- Removed depreciated feature Create PO Rounder.
+- Removed depreciated feature Bulk Master Note Edit.
+- Fixed bug with Forecaster Hours options menu employee/hour/efficiency counts being put into wrong cells.
 V4.31-
 - Removed Select/Deselect All Columns Buttons feature.
 - Bottleneck Hide Rows feature now works on Bottleneck Labor page.
