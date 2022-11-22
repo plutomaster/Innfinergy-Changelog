@@ -1,5 +1,7 @@
 Innfinergy
 
+V4.33-
+- Added Change Tenant Name feature -Public-.
 V4.32-
 - Budget Summary CO/ALT Colors changed to Select Accepted Alternates feature.
 - Removed depreciated feature Create PO Rounder.
