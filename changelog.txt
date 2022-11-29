@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.34-
+- Preemptive fixes for next Innergy version.
+- Switch Shipment feature now works on Work Order shipment items.
+- Forecaster Tracking feature updated to use new capacity/hours breakout of Forecaster Hours feature.
+- Backend improvments to Change Tenant Name feature.
 V4.33-
 - Added Change Tenant Name feature -Public-.
 V4.32-
