@@ -1,5 +1,10 @@
 Innfinergy
 
+V4.35-
+- Added Material Request History Link feature -Public-.
+- Added Pannel Layup Labels feature -Public-.
+- Added Kiosk Web Mockup feature -Public-.
+- Feature icons added to WO grids will be set in a specific order.
 V4.34-
 - Preemptive fixes for next Innergy version.
 - Switch Shipment feature now works on Work Order shipment items.
