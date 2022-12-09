@@ -1,5 +1,8 @@
 Innfinergy
 
+V4.36-
+- Remake Work Order fixed -Premium-.
+- Bugfixes.
 V4.35-
 - Added Material Request History Link feature -Public-.
 - Added Pannel Layup Labels feature -Public-.
