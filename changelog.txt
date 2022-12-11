@@ -1,5 +1,8 @@
 Innfinergy
 
+V4.37-
+- Added Approve All Pending feature -Premium-.
+- Added Focused WO Dates feature -Premium-.
 V4.36-
 - Remake Work Order fixed -Premium-.
 - Bugfixes.
