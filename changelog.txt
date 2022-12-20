@@ -1,5 +1,8 @@
 Innfinergy
 
+v4.38-
+- Added Added Expenses WO Dates feature -Premium-.
+- Approve All Pending feature changed to Approve Pending and updated to work on selected materials.
 V4.37-
 - Added Approve All Pending feature -Premium-.
 - Added Focused WO Dates feature -Premium-.
