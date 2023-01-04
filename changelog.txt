@@ -4,6 +4,8 @@ v4.39-
 - Added WO Expanded, Add Labor Item feature -Public-.
 - Task Replicate feature limited to 100 tasks in one operation.
 - Bugfixes.
+- Material Request Notify Fixed.
+- Bulk Inventory Move feature now -Public-, off by default, turn on in settings.
 v4.38-
 - Added Added Expenses WO Dates feature -Premium-.
 - Approve All Pending feature changed to Approve Pending and updated to work on selected materials.
