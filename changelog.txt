@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.40-
+- Added Mouseover Shop Drawings Preview feature -Public-.
+- Added WO Grids Notes feature -Public-.
+- Material Request Info's print label feature now has optional toggle in options menue for WO number or WO name.
 v4.39-
 - Added WO Expanded, Add Labor Item feature -Public-.
 - Task Replicate feature limited to 100 tasks in one operation.
