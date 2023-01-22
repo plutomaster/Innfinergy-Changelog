@@ -1,5 +1,12 @@
 Innfinergy
 
+v4.41-
+- Added Kiosk PO Material Link -Public-.
+- Added PO Create On Hand feature -Private-.
+- Added Takeoff View Manager feature -Private-.
+- WO Grids Notes feature changed to Grids Notes, works on WOs and Opportunities grids.
+- Mouseover Shop Drawings Preview feature updated with QOL improvements. Middle clicking when open will open to kiosk shop drawings.
+- Work Order Date Export feature now works on selected WOs in WO grids. Added additional information columns.
 v4.40-
 - Added Mouseover Shop Drawings Preview feature -Public-.
 - Added WO Grids Notes feature -Public-.
