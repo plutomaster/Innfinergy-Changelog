@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.42-
+- Fixed Bom Convert Autocheck feature button being unclickable.
+- Fixed Material Name Tool feature text injection.
+- Bugfixes for upcoming Innergy update.
 v4.41-
 - Added Kiosk PO Material Link -Public-.
 - Added PO Create On Hand feature -Private-.
