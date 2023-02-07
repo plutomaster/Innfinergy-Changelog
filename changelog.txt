@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.43-
+- Fixed Kanban column colors for labor kanban.
+- Fixed PTO Hours feature.
+- Bugfixes.
 v4.42-
 - Fixed Bom Convert Autocheck feature button being unclickable.
 - Fixed Material Name Tool feature text injection.
