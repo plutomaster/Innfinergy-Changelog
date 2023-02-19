@@ -1,5 +1,10 @@
 Innfinergy
 
+v4.44-
+- Added Bottleneck Type Merge feature -Public-.
+- Added Scan Kiosk Autoclick feature -Public-.
+- Added Filter To Office feature -Public-.
+- Now able to close all expaneded master rows from Open Bulk Work Orders feature.
 v4.43-
 - Fixed Kanban column colors for labor kanban.
 - Fixed PTO Hours feature.
