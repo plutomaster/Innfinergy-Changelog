@@ -2,6 +2,7 @@ Innfinergy
 
 v4.45-
 - Added Copy Fulfilled Material Requests feature -Public-.
+- Bottleneck Type Merge icons with 0 values are now transparent.
 v4.44-
 - Added Bottleneck Type Merge feature -Public-.
 - Added Scan Kiosk Autoclick feature -Public-.
