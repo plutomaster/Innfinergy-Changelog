@@ -1,5 +1,8 @@
 Innfinergy
 
+v4.46-
+- Bulk Open Work Orders feature changed to Bulk Open, now works on project and opportunites grids.
+- Bugfixes.
 v4.45-
 - Added Copy Fulfilled Material Requests feature -Public-.
 - Bottleneck Type Merge icons with 0 values are now transparent.
