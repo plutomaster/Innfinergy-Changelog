@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.47-
+- Added Kiosk Work Order Custom Field Display feature -Public-. 
+- Kiosk Custom Fields feature now accessable from the labor kanban via the Kanban Menu feature.
+- Work Order Label Feature now -Public-. 
 v4.46-
 - Bulk Open Work Orders feature changed to Bulk Open, now works on project and opportunites grids.
 - Bugfixes.
