@@ -1,5 +1,7 @@
 Innfinergy
 
+v4.48-
+- Work Order Date Export now exports Step and Next Milestone columns.
 v4.47-
 - Added Kiosk Work Order Custom Field Display feature -Public-. 
 - Kiosk Custom Fields feature now accessable from the labor kanban via the Kanban Menu feature.
