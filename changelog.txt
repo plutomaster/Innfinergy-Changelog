@@ -4,6 +4,7 @@ v4.49-
 - Inventory Map bins now lighter color if empty, warehouse list sorted alphabetically.
 - Kiosk Work Order Custom Field Display bubble now light gray if value is empty.
 - Copy Fulfilled Material Requests changed to Kiosk Material Name Copy, works on all Kiosk Inventory grids.
+- Added select all button to Bulk WO Date Override feature.
 v4.48-
 - Work Order Date Export now exports Step and Next Milestone columns.
 v4.47-
