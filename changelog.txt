@@ -1,6 +1,9 @@
 Innfinergy
 
 v4.49-
+- Bugfixes.
+- Materials to Buy Step Info now shows planned critial date.
+v4.49-
 - Inventory Map bins now lighter color if empty, warehouse list sorted alphabetically.
 - Kiosk Work Order Custom Field Display bubble now light gray if value is empty.
 - Copy Fulfilled Material Requests changed to Kiosk Material Name Copy, works on all Kiosk Inventory grids.
