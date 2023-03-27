@@ -1,6 +1,10 @@
 Innfinergy
 
 v4.50-
+- Added Opportunities Bottleneck feature -public-.
+- Fixed Mouseover Shop Drawings Preview feature.
+- Fixed Remake Work Order feature.
+v4.50-
 - Bugfixes.
 - Materials to Buy Step Info now shows planned critial date.
 v4.49-
