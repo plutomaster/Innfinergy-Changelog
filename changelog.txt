@@ -1,10 +1,14 @@
 Innfinergy
 
+v4.53-
+- Added Material Check feature -Premium-, admin only.
+- Added Material Name Force Edit -Premium-.
+- Bugfixes.
 v4.52-
 - Added additional function to Opportunities Bottleneck, new time range, more columns in drilldown, etc.
 - Bugfixes.
 v4.51-
-- Added Opportunities Bottleneck feature -public-.
+- Added Opportunities Bottleneck feature -Public-.
 - Fixed Mouseover Shop Drawings Preview feature.
 - Fixed Remake Work Order feature.
 v4.50-
