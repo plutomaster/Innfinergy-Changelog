@@ -1,5 +1,8 @@
 Innfinergy
 
+v4.54-
+- Fixes for next Innergy update.
+- Bugfixes.
 v4.53-
 - Added Material Check feature -Premium-, admin only.
 - Added Material Name Force Edit -Premium-.
