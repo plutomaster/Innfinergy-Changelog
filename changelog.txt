@@ -1,5 +1,6 @@
 Innfinergy
 
+- Reply to Note feature disabled, unable to be fixed.
 v4.54-
 - Fixes for next Innergy update.
 - Bugfixes.
