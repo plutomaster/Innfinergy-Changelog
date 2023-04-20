@@ -1,6 +1,9 @@
 Innfinergy
-
+v4.55-
 - Reply to Note feature disabled, unable to be fixed.
+- Update to Material Legend to allow inport and export inside feature, modifying notes no longer recommended.
+- Fix to Innfinergy Note Manager to handle new note format.
+- Bugfixes.
 v4.54-
 - Fixes for next Innergy update.
 - Bugfixes.
