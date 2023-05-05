@@ -1,8 +1,19 @@
 Innfinergy
+
+v4.56-
+- Added Request Material Favorites feature -Premium-
+- Material Legend import will now fill in incomplete dates with current time and user.
+- Fix and more sums added to Add Group Summaries feature.
+- Material Check feature now also outputs duplicate named materials.
+- Open Bulk added to material library.
+- Button added to Open Bulk on WO grids that opens selected WOs in filtered project Budget Products or SOV Budget grids.
+- Summary Cost Calculator fixed.
+- Proposal Mailer [Proposal Email] fixed. 
 v4.55-
 - Reply to Note feature disabled, unable to be fixed.
 - Update to Material Legend to allow inport and export inside feature, modifying notes no longer recommended.
 - Fix to Innfinergy Note Manager to handle new note format.
+- Mouseover Shop Drawings Preview fixed.
 - Bugfixes.
 v4.54-
 - Fixes for next Innergy update.
