@@ -1,6 +1,12 @@
 Innfinergy
 
 v4.57-
+- Request Material Favorites feature now -Public-.
+- Added many fixes to Request Material Favorites.
+- Added PO Search Initialize feature -Premium-.
+- Added Shipment Item Correlation feature -Premium-.
+- Kiosk Material Description feature added to many grids across the kiosk.
+v4.57-
 - Added Kiosk Material Description feature -Public-.
 - Request Material Favorites bugfixes and updates.
 v4.56-
