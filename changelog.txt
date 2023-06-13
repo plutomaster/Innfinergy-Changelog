@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.59-
+- Links to ingentory grids now go to the Master Inventory grid.
+- Added BoM Description if present to Material Request Info feature.
+- Bugfixes.
 v4.58-
 - Request Material Favorites feature now -Public-.
 - Added many fixes to Request Material Favorites.
