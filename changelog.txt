@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.60-
+- Added Page Navigator feature -Premium-.
+- Shop Capacity bugfix to empty categories.
+- Hide Bottleneck Rows fix for icon not showing up.
 v4.59-
 - Links to ingentory grids now go to the Master Inventory grid.
 - Added BoM Description if present to Material Request Info feature.
