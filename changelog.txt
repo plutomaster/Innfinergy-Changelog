@@ -1,5 +1,10 @@
 Innfinergy
 
+v4.61-
+- Task Replicate can now able to replicate closed period tasks.
+- Fix for Open Bulk where expand columns was crushing row heights.
+- Bugfixes.
+- Various fixes for upcoming Innergy version.
 v4.60-
 - Added Page Navigator feature -Premium-.
 - Shop Capacity bugfix to empty categories.
