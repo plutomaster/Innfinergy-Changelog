@@ -1,5 +1,8 @@
 Innfinergy
 
+v4.62-
+- Budget Groups Highlighter var function fix when rows appear/dissapear.
+- Timeclock Data Display fix.
 v4.61-
 - Task Replicate can now able to replicate closed period tasks.
 - Fix for Open Bulk where expand columns was crushing row heights.
