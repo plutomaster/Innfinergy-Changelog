@@ -1,5 +1,11 @@
 Innfinergy
 
+v4.63-
+- Added PO Address Recall feature -Public-.
+- Inventory Map added a clear background image button.
+- Summary Cost Calculator now able to handle new hours format.
+- Custom Tags feature removed from WOs.
+- Material request info performace fix.
 v4.62-
 - Budget Groups Highlighter var function fix when rows appear/dissapear.
 - Timeclock Data Display fix.
