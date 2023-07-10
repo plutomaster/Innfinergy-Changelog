@@ -1,6 +1,11 @@
 Innfinergy
 
 v4.63-
+- Grid Notes feature works on projects grid.
+- Innfinergy notes menu now displays notes in native Innergy order.
+- Added Disable Load feature -Premium-.
+- Po Address Recall improved and also added to create PO on MTB grid.
+v4.63-
 - Added PO Address Recall feature -Public-.
 - Inventory Map added a clear background image button.
 - Summary Cost Calculator now able to handle new hours format.
