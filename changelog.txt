@@ -1,6 +1,6 @@
 Innfinergy
 
-v4.63-
+v4.64-
 - Grid Notes feature works on projects grid.
 - Innfinergy notes menu now displays notes in native Innergy order.
 - Added Disable Load feature -Premium-.
