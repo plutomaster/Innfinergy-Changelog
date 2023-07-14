@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.65-
+- Major bugfix to most grid injected features. Please report any issues.
+- Bom Delived feature retired.
+- Page Navigator now -Public-.
 v4.64-
 - Grid Notes feature works on projects grid.
 - Innfinergy notes menu now displays notes in native Innergy order.
