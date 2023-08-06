@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.69-
+- Added Opportunity Priority feature -Premium-.
+- Added Add Shipment Items Favorites -Premium-.
+- Added Shipment Item Map -Premium- as part of Inventory map feature.
 v4.68-
 - Added keystore Importer in options.
 - Bugfixes
