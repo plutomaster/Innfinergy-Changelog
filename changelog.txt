@@ -1,5 +1,7 @@
 Innfinergy
 
+v4.70-
+- Bugfixes.
 v4.69-
 - Added Opportunity Priority feature -Premium-.
 - Added Add Shipment Items Favorites -Premium-.
