@@ -1,5 +1,7 @@
 Innfinergy
 
+v4.71-
+- Update to keystore Import.
 v4.70-
 - Bugfixes.
 v4.69-
