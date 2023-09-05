@@ -3,6 +3,7 @@ Innfinergy
 v4.72-
 - Added Implementation Enhancement -Public- feature.
 - Added SKU to Material Request Info labels.
+- Added year to columns in Forcaster Hours.
 - Many bugfixes.
 v4.71-
 - Update to keystore Import.
