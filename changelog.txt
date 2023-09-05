@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.72-
+- Added Implementation Enhancement -Public- feature.
+- Added SKU to Material Request Info labels.
+- Many bugfixes.
 v4.71-
 - Update to keystore Import.
 v4.70-
