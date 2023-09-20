@@ -1,6 +1,12 @@
 Innfinergy
 
 v4.72-
+- Implementation Enhancement can now create a new task based on a step.
+- Bugfix to files tab of Kanban Menu.
+- Forcaster Hours year header now alternates colors between years.
+- Added Filter to Shipment to Bulk Open on WO grids.
+- Removed refrence to external settings file and manual updating.
+v4.72-
 - Added Implementation Enhancement -Public- feature.
 - Added SKU to Material Request Info labels.
 - Added year to columns in Forcaster Hours.
