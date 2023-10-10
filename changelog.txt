@@ -1,5 +1,9 @@
 Innfinergy
 
+v4.75-
+- Volume Calculator set to on by default. Default fill set to 75%.
+- Added WO Step Manager -Public- feature.
+- Kanban Column Header Colors changed, local user colors disabled on all grids. Colors are now set by admin accounts company wide.
 v4.74-
 - Added Volume Calculator -Public- feature.
 - Shipping Tools and Disable Load features added to new kiosk shipping screen.
