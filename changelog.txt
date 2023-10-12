@@ -1,5 +1,8 @@
 Innfinergy
 
+v4.76-
+- WO Step Manager now works on office WO budget groups page and when moving cards on the labor kanban.
+- Kanban Column Header Colors changed fix.
 v4.75-
 - Volume Calculator set to on by default. Default fill set to 75%.
 - Added WO Step Manager -Public- feature.
