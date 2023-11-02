@@ -1,5 +1,14 @@
 Innfinergy
 
+v4.79-
+- Added various totals to Add Group Summaries.
+- Fix to Shipping Tools on new page.
+- Fix to Material Progress showing up multiple times.
+- Fix to grid buttons appearing wide or in wrong places.
+v4.78-
+- Bugfixes.
+v4.77-
+- Bugfixes.
 v4.76-
 - WO Step Manager now works on office WO budget groups page and when moving cards on the labor kanban.
 - Kanban Column Header Colors changed fix.
