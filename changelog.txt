@@ -1,5 +1,10 @@
 Innfinergy
-
+v4.80-
+- Added feature Build BOM - Cost Rollup -Public-.
+- Fixed the material request auto notify function.
+- Fixed the labor kanban mouseover description tooltip function.
+- Fixed files popup in labor kanban menu.
+- Inspect All feature, altered request performance to ease server strain.
 v4.79-
 - Added various totals to Add Group Summaries.
 - Fix to Shipping Tools on new page.
