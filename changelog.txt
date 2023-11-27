@@ -1,4 +1,7 @@
 Innfinergy
+v4.81-
+- Added feature Notifiaction Flasher -Public-.
+- Fixed Work Order Past Due feature.
 v4.80-
 - Added feature Build BOM - Cost Rollup -Public-.
 - Fixed the material request auto notify function.
