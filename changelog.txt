@@ -1,4 +1,12 @@
 Innfinergy
+v4.82-
+- Step Manager has new rule type "Labor Started"
+- Fixed Project Grid features.
+- Fixed Publish Custom Regions.
+- Fixed Error popup on bottleneck grid opening.
+- Fixed Kiosk Material Description.
+- Fixed Bulk Quantity Edit.
+- Bugfixes.
 v4.81-
 - Added feature Notifiaction Flasher -Public-.
 - Fixed Work Order Past Due feature.
