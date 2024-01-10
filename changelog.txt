@@ -1,4 +1,12 @@
 Innfinergy
+v4.85-
+- Added feature Shipment Items Popup -Public-.
+- Added feature Notifiaction Flasher -Public-.
+- Fixed Grid Selection Data on new grids.
+v4.84-
+- Bugfixes.
+v4.83-
+- Bugfixes.
 v4.82-
 - Step Manager has new rule type "Labor Started"
 - Fixed Project Grid features.
