@@ -1,4 +1,10 @@
 Innfinergy
+v4.86-
+- Added feature Scan To Request -Premium-
+- Fixed map icon in new WO grids.
+- Added WO# to Word Order Date Export
+- Fixed Unselect All on new WO grids.
+- Fixed Shippings Tools sound alerts in new Shipment screen.
 v4.85-
 - Added feature Shipment Items Popup -Public-.
 - Added feature Notifiaction Flasher -Public-.
